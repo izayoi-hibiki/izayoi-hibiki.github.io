@@ -1,9 +1,11 @@
 ---
 title: 记一下TypeScript配合React的技巧
 categories:
-  - Web前端/随笔/后端
+  - Web前端
 date: 2020-06-05 10:46:56
 tags:
+  - TypeScript
+  - React
 ---
 
 记一下TypeScript配合React的技巧
